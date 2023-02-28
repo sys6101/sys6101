@@ -64,7 +64,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://vmenpn.com" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="trungquandev-blog" />
+    
   </a>
   <a href="https://facebook.com/vumenpn" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="trungquandev-facebook" />
@@ -80,7 +80,7 @@
 <br>
 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
-<
+
   <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vumenpn" target="_blank">https://www.facebook.com/vumenpn</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:vuphung69@gmail.com" target="_top">vuphung69@gmail.com</a></strong>
