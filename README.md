@@ -81,7 +81,7 @@
 
 <h2 align="center">📖 My MERN Stack Advanced Course 📖</h2>
 <
-  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vumenpn" target="_blank">https://www.facebook.com/vumenpn/a></strong>
+  <strong>🔗 Liên hệ với mình tại Facebook: <a href="https://www.facebook.com/vumenpn" target="_blank">https://www.facebook.com/vumenpn</a></strong>
   <br>
   <strong>📧 Hoặc Email: <a href="mailto:vuphung69@gmail.com" target="_top">vuphung69@gmail.com</a></strong>
 </p>
